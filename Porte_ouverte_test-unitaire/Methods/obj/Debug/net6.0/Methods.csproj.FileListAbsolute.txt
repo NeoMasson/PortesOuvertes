@@ -1,0 +1,12 @@
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Methods\obj\Debug\net6.0\ref\Methods.dll

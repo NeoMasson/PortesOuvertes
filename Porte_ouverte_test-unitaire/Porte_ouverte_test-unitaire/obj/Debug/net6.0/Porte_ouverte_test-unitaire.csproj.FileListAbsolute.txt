@@ -1,0 +1,5 @@
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Porte_ouverte_test-unitaire\obj\Debug\net6.0\Porte_ouverte_test-unitaire.csproj.AssemblyReference.cache
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Porte_ouverte_test-unitaire\obj\Debug\net6.0\Porte_ouverte_test-unitaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Porte_ouverte_test-unitaire\obj\Debug\net6.0\Porte_ouverte_test-unitaire.AssemblyInfoInputs.cache
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Porte_ouverte_test-unitaire\obj\Debug\net6.0\Porte_ouverte_test-unitaire.AssemblyInfo.cs
+C:\Users\neomasson\Desktop\Porte_ouverte_test-unitaire\Porte_ouverte_test-unitaire\obj\Debug\net6.0\Porte_ouverte_test-unitaire.csproj.CoreCompileInputs.cache
