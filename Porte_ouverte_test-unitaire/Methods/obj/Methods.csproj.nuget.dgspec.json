@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {}
+    "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
+    "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\neomasson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

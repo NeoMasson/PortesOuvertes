@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj": {}
+    "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
+    "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\neomasson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj": {
+    "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj",
+        "projectUniqueName": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj",
         "projectName": "Portes-ouvertes_Test-Unitaire",
-        "projectPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj",
+        "projectPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\Portes-ouvertes_Test-Unitaire.csproj",
         "packagesPath": "C:\\Users\\neomasson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\obj\\",
+        "outputPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Portes-ouvertes_Test-Unitaire\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
-                "projectPath": "C:\\Users\\neomasson\\Desktop\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj"
+              "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj": {
+                "projectPath": "C:\\Users\\neomasson\\Documents\\GitHub\\PortesOuvertes\\Porte_ouverte_test-unitaire\\Methods\\Methods.csproj"
               }
             }
           }
